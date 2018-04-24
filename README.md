@@ -12,6 +12,12 @@ source activate ds
 python -m ipykernel install --user --name ds --display-name "ds"
 ```
 
+You will also need to install the following manually.
+
+```bash
+pip install autograd
+```
+
 To remove the environment.
 
 ```bash
