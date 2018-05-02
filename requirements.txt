@@ -6,4 +6,6 @@ matplotlib
 scikit-learn
 seaborn
 autograd
+mxnet
+tqdm
 ipykernel
