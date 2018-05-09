@@ -15,6 +15,16 @@ pip install torchvision
 python -m ipykernel install --user --name ds-pytorch --display-name "ds-pytorch"
 ```
 
+For MacOS.
+
+```bash
+conda create -n ds-pytorch python=3.6
+activate ds-pytorch
+pip install -r requirements.txt
+pip install torch torchvision
+python -m ipykernel install --user --name ds-pytorch --display-name "ds-pytorch"
+```
+
 To remove the environment.
 
 ```bash
