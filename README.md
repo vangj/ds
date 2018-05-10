@@ -19,6 +19,10 @@ To remove the environment.
 conda env remove -n ds --yes
 ```
 
+# Misc
+
+To convert a `ipynb` to `html`, type in the following `jupyter nbconvert --to html --template basic [file.ipynb]`. To make the generated `html` file compatible with WordPress, type in `sed -e 's/\$\([^$]*\)\$/$latex \1$/g' [file.html] > [output.html]`.
+
 # Copyright Stuff
 
 ```
