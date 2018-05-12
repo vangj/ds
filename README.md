@@ -33,6 +33,8 @@ conda env remove -n ds --yes
 * [Neural network, no tears](neural-network-handcraft.ipynb)
 * [Psuedo R^2 for logistic regression, no tears](psuedo-r-squared-logistic-regression.ipynb)
 * [Regression with dummy variables, no tears](regression-dummy-variables.ipynb)
+* [Using a Recurrent Neural Network (RNN) to classify sine wave signals, no tears](pytorch/classify-signals-rnn.ipynb)
+* [Neural Networks, gradient descent, and regression, no tears](pytorch/neural-network-gradient-descent.ipynb)
 
 # Misc
 
