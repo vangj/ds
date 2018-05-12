@@ -19,6 +19,21 @@ To remove the environment.
 conda env remove -n ds --yes
 ```
 
+# Notebooks
+
+* [Solve logistic regression problems with gradient descent through Autograd, no tears](autograd-logistic-regression-gradient-descent.ipynb)
+* [Solve logistic regression problems with gradient descent through Autograd, no tears](autograd-poisson-regression-gradient-descent.ipynb)
+* [Solve regression problems with gradient descent through Autograd, no tears](autograd-regression-gradient-descent.ipynb)
+* [Dirichlet-Multinomial distribution, no tears](dirichlet-multinomial-distribution.ipynb)
+* [Generating normally distributed values, no tears](generate-gaussian-distributed-values.ipynb)
+* [Random Bayesian Network generation, no tears](generate-random-bbn.ipynb)
+* [Gradient descent, no tears](gradient-descent.ipynb)
+* [Kullback-Leibler divergence, no tears](kullback-leibler-divergence.ipynb)
+* [Latent semantic analysis, no tears](latent-semantic-analysis.ipynb)
+* [Neural network, no tears](neural-network-handcraft.ipynb)
+* [Psuedo R^2 for logistic regression, no tears](psuedo-r-squared-logistic-regression.ipynb)
+* [Regression with dummy variables, no tears](regression-dummy-variables.ipynb)
+
 # Misc
 
 To convert a `ipynb` to `html`, type in the following `jupyter nbconvert --to html --template basic [file.ipynb]`. To make the generated `html` file compatible with WordPress, type in `sed -e 's/\$\([^$]*\)\$/$latex \1$/g' [file.html] > [output.html]`.
