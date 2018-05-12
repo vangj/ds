@@ -22,7 +22,7 @@ conda env remove -n ds --yes
 # Notebooks
 
 * [Solve logistic regression problems with gradient descent through Autograd, no tears](autograd-logistic-regression-gradient-descent.ipynb)
-* [Solve logistic regression problems with gradient descent through Autograd, no tears](autograd-poisson-regression-gradient-descent.ipynb)
+* [Solve poisson regression problems with gradient descent through Autograd, no tears](autograd-poisson-regression-gradient-descent.ipynb)
 * [Solve regression problems with gradient descent through Autograd, no tears](autograd-regression-gradient-descent.ipynb)
 * [Dirichlet-Multinomial distribution, no tears](dirichlet-multinomial-distribution.ipynb)
 * [Generating normally distributed values, no tears](generate-gaussian-distributed-values.ipynb)
