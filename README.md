@@ -36,7 +36,6 @@ conda env remove -n ds --yes
 * [Using a Recurrent Neural Network (RNN) to classify sine wave signals, no tears](pytorch/classify-signals-rnn.ipynb)
 * [Neural Networks, gradient descent, and regression, no tears](pytorch/neural-network-gradient-descent.ipynb)
 * [Restricted Boltzmann Machine](restricted-boltzmann-machine.ipynb)
-[
 
 # Misc
 
