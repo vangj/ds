@@ -13,6 +13,8 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name ds --display-name "ds"
 ```
 
+Note that [librosa](http://librosa.github.io/librosa/install.html) requires a backend like [ffmpeg](https://www.ffmpeg.org/). You will need to install that separately.
+
 To remove the environment.
 
 ```bash
