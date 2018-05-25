@@ -8,4 +8,6 @@ seaborn
 autograd
 mxnet
 tqdm
+httplib2
+joblib
 ipykernel
