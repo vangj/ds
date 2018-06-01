@@ -6,3 +6,9 @@ Here is a description of the notebooks.
 * [explore-data.ipynb](explore-data.ipynb) explores the data at a high level with descriptive statistics
 * [single-analysis.ipynb](single-analysis.ipynb) analyzes a single audio file
 * [simple-classification.ipynb](simple-classification.ipynb) shows how to extract features from audio files and use machine learning clsasification techniques to classify one species of bird sound from another
+
+For now, the vast majority of the code relies on the following resources.
+
+* [LibROSA](https://librosa.github.io/librosa/index.html) as a audio processing API
+* [Notes on Music Information Retrieval](https://musicinformationretrieval.com/index.html) as a reference and starting point on how to process audio files for music information retrieval
+* [ffmpeg](https://www.ffmpeg.org/) as a command line tool to process audio files
