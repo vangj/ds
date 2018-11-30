@@ -1,0 +1,14 @@
+name: ds-missing
+channels:
+  - anaconda
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - ipykernel
+  - pip:
+    - tensorflow
+    - missingno
+    - fancyimpute
