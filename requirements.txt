@@ -13,3 +13,4 @@ joblib
 statsmodels
 librosa
 ipykernel
+missingno
