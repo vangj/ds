@@ -17,3 +17,4 @@ missingno
 spacy
 gensim
 wordcloud
+nltk

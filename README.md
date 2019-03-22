@@ -7,7 +7,7 @@ This repository is just some "no tears" tutorials on data science topics. You wi
 To create a Conda environment, you need to install [Anaconda](https://anaconda.org/). Note, for Windows, do not type in `source activate ds` but instead `activate ds`. Assuming you are in the cloned `ds` repository directory, you may type in the following.
 
 ```bash
-conda create -n ds python=2.7
+conda create -n ds python=3.6
 source activate ds
 pip install -r requirements.txt
 python -m ipykernel install --user --name ds --display-name "ds"
