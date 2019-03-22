@@ -14,3 +14,6 @@ statsmodels
 librosa
 ipykernel
 missingno
+spacy
+gensim
+wordcloud
